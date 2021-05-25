@@ -19,7 +19,6 @@ public class EmployeeRepoImpl implements IEmployeeRepo{
         Employee employee1 = new Employee();
         Employee employee2 = new Employee();
 
-
         employee1.setEmp_id(1);
         employee1.setEmp_name("Kunal");
         employee1.setEmp_dept("ADM");
